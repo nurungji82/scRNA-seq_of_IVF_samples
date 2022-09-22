@@ -1,14 +1,7 @@
-<!-- R Commander Markdown Template -->
+###Leukocytes in human follicular aspirates obtaineid from 4 IVF patients
+
   
-  Leukocytes in human follicular aspirates obtaineid from 4 IVF patients
-=======================
-  
-  ### Yohan Choi
-  
-  ### 2021-11-07
-  
-  
-  library(devtools)
+library(devtools)
 library(htmltools) 
 library(Seurat)
 library(SeuratData)
@@ -28,7 +21,6 @@ library(scater)
 library(patchwork)
 library(SeuratDisk)
 library(readr)
-
 
 
 ## Setup the Seurat Object
